@@ -3,3 +3,8 @@ dist/
 build/
 .env
 *.log
+public/bedroom-day.mp4
+public/bedroom-night.mp4
+public/bedroom-scene.png
+public/bedroom-scene-dark.png
+public/hero-light.mp4
